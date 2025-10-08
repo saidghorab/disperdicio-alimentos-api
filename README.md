@@ -1,4 +1,4 @@
-# API de Monitoramento de Desperdício de Alimentos 🍎♻️
+# API de Monitoramento de Desperdício de Alimentos
 
 ## Visão Geral do Projeto
 
