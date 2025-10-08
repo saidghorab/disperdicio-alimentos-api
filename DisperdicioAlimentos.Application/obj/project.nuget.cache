@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AI+fzKBFwrA=",
+  "success": true,
+  "projectFilePath": "D:\\codex\\0-studies\\disperdicio-alimentos\\DisperdicioAlimentos.Application\\DisperdicioAlimentos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.gomes\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\matheus.gomes\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\matheus.gomes\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
+    "C:\\Users\\matheus.gomes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\matheus.gomes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

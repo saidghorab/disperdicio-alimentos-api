@@ -1,0 +1,15 @@
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\bin\Debug\net8.0\DisperdicioAlimentos.Application.deps.json
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\bin\Debug\net8.0\DisperdicioAlimentos.Application.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\bin\Debug\net8.0\DisperdicioAlimentos.Application.pdb
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\bin\Debug\net8.0\DisperdicioAlimentos.Domain.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\bin\Debug\net8.0\DisperdicioAlimentos.Domain.pdb
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.csproj.AssemblyReference.cache
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.AssemblyInfoInputs.cache
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.AssemblyInfo.cs
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.csproj.CoreCompileInputs.cache
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\Disperdi.B378EF24.Up2Date
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\refint\DisperdicioAlimentos.Application.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\DisperdicioAlimentos.Application.pdb
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Application\obj\Debug\net8.0\ref\DisperdicioAlimentos.Application.dll

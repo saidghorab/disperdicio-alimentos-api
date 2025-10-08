@@ -1,0 +1,6 @@
+@DisperdicioAlimentos.API_HostAddress = http://localhost:5293
+
+GET {{DisperdicioAlimentos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

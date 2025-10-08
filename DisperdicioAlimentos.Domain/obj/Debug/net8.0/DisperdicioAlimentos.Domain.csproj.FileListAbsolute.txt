@@ -1,0 +1,11 @@
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\bin\Debug\net8.0\DisperdicioAlimentos.Domain.deps.json
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\bin\Debug\net8.0\DisperdicioAlimentos.Domain.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\bin\Debug\net8.0\DisperdicioAlimentos.Domain.pdb
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\DisperdicioAlimentos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\DisperdicioAlimentos.Domain.AssemblyInfoInputs.cache
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\DisperdicioAlimentos.Domain.AssemblyInfo.cs
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\DisperdicioAlimentos.Domain.csproj.CoreCompileInputs.cache
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\DisperdicioAlimentos.Domain.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\refint\DisperdicioAlimentos.Domain.dll
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\DisperdicioAlimentos.Domain.pdb
+D:\codex\0-studies\disperdicio-alimentos\DisperdicioAlimentos.Domain\obj\Debug\net8.0\ref\DisperdicioAlimentos.Domain.dll
